@@ -1,3 +1,4 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/819085166323564555)](https://discord.com/users/819085166323564555)
 - 👋 Hi, I’m @TBNRDev
 - 👀 I’m interested in making games and app
 - 🌱 I’m currently learning HTML, Android App development
